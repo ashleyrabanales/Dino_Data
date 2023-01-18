@@ -11,9 +11,9 @@ In working of team of 3 with Choko, Chen, and myself our team is called Dino Tea
 ---- master.csv
 ---- suicide.R
 - documents
----- readme.md
----- figure2.png
----- figure3.png
----- generation.png
+---- Homework 1
+---- Homework 2
+---- Homework 3
+---- Final Project
 
 ```
